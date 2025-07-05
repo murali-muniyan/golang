@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/murali-muniyan/golang/cache/datastore"
+	"github.com/murali-muniyan/golang/cache/example/datastore"
 )
 
 func main() {
